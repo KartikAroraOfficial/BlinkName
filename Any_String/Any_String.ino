@@ -36,7 +36,7 @@ void loop()
   do
   {
     ch = Serial.read();
-  }while(ch == '.');
+  }while(ch != 'y'&& ch != 'n');
    
   if (ch != 'y')
   {
