@@ -11,10 +11,10 @@
  */
 
 
-// reference to the morse code rules:- https://www.codebug.org.uk/learn/step/541/morse-code-timing-rules/
+// reference to the morse code rules that I found on the internet:- https://www.codebug.org.uk/learn/step/541/morse-code-timing-rules/
 
 
-// reference to the morse code index image:- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/International_Morse_Code.svg/1200px-International_Morse_Code.svg.png
+// reference to the morse code index image that I found on the internet:- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/International_Morse_Code.svg/1200px-International_Morse_Code.svg.png
 void setup()
 {
   pinMode(LED_BUILTIN, OUTPUT);
